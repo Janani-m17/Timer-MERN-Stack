@@ -2,6 +2,8 @@
 
 This project is a simple timer application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to start, stop, reset, and record laps.
 
+![image](https://github.com/Janani-m17/Timer-MERN-Stack/assets/124059957/ccd08920-ff3a-48ff-98bc-910795619247)
+
 ## Features
 
 - Start button: Initiates the timer countdown.
